@@ -1,0 +1,11 @@
+{
+  "license": "Apache-2.0",
+  "scripts": {
+    "dev": "nuxt",
+    "generate": "nuxt generate"
+  },
+  "devDependencies": {
+    "nuxt": "^1.4.0",
+    "processmd": "^4.2.0"
+  }
+}
