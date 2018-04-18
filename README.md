@@ -1,1 +1,1 @@
-# webgl-study
+# webgl-sketch
